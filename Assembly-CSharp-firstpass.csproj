@@ -53,7 +53,6 @@
      <Compile Include="Assets\Standard Assets\Cameras\Scripts\PivotBasedCameraRig.cs" />
      <Compile Include="Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
      <Compile Include="Assets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
-     <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Animator\xyz.cs" />
      <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
      <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
      <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
